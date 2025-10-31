@@ -16,6 +16,10 @@ Currently, only the **Easy** level programs are added. More programs will be upl
 | 4 | `04_Swap_two_nums.py` | Program to swap two numbers (with or without temp variable). |
 | 5 | `05_Factorial.py` | Program to find the factorial of a number using loop. |
 | 6 | `06_Count_digits.py` | Program to count the digits in a number using loop. |
+| 7 | `07_Reverse_Number.py` | Program to reverse the number using loop. |
+| 8 | `08_Sum_of_digits.py` | Program to sum the digits in a number using loop. |
+| 9 | `09_simple_interest.py` | Program to print simple interest. |
+| 10 | `10_leap_year.py` | Program to check whether the year is leap or not leap. |
 
 ---
 
