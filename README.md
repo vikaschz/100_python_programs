@@ -15,6 +15,7 @@ Currently, only the **Easy** level programs are added. More programs will be upl
 | 3 | `03_Largest_of_two.py` | Program to find the largest of two numbers. |
 | 4 | `04_Swap_two_nums.py` | Program to swap two numbers (with or without temp variable). |
 | 5 | `05_Factorial.py` | Program to find the factorial of a number using loop. |
+| 6 | `06_Count_digits.py` | Program to count the digits in a number using loop. |
 
 ---
 
