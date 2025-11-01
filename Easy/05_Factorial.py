@@ -6,25 +6,17 @@ Description: Takes input from the user and prints n!. Handles invalid and negati
 Example:
 Input: 5
 Output: 120
+==> 5 * 4 * 3 * 2 * 1 = 120
 """
 
-def main():
-    try:
-        n = int(input("Enter n value: "))
+n = int(input("Enter n value: "))
         
-        if n < 0:
-            print("Factorial is not defined for negative numbers ")
-            return
-        
-        fact = 1
-        for i in range(1, n + 1):
-            fact *= i
+if n < 0:
+    print("Factorial is not defined for negative numbers ")
+    
+else:    
+    fact = 1
+    for i in range(1, n + 1):
+        fact *= i #fact = fact*i
 
-        print(f"Factorial of {n} is: {fact}")
-
-    except ValueError:
-        print("Invalid input! Please enter an integer number.")
-
-
-if __name__ == "__main__":
-    main()
+    print(f"Factorial of {n} is: {fact}")

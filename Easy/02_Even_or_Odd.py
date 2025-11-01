@@ -1,16 +1,11 @@
 """
-Program: Largest of two numbers
-Difficulty: Easy
-Description: 
-
-Example:
-Input: 5
-Output: Odd
+Program: Even or odd
+Description: print the whether the number is even or odd
 """
 
-def main():
-    num = int(input("Enter number: "))
-    print("Even" if num % 2 == 0 else "Odd")
 
-if __name__ == "__main__":
-    main()
+num = int(input("Enter number: "))
+if num % 2 == 0:
+    print(f"{num} is Even")
+else:
+    print(f"{num} is Odd")
