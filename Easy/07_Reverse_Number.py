@@ -4,17 +4,15 @@ Difficulty: Easy
 Description: print the reverse of a number
 """
 
-def reverse_number(num):
-    temp = num
-    rev = ""
+num = int(input("Enter a number: "))
 
-    while temp>0:
-        digit  = temp%10
-        rev +=str(digit)
-        temp//=10
+temp = num
+rev = 0
 
-    return f"Reversed: {rev}"
-    
+while temp > 0:
+    digit = temp % 10
+    rev = rev * 10 + digit
+    temp //= 10
 
-number = int(input('Enter a number: '))
-print(reverse_number(number))
+print("Reversed:", rev)
+
