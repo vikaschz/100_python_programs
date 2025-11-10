@@ -46,6 +46,11 @@ More **Medium** and **Hard** level programs will be added soon.
 | 34 | `34_decimal_to_binary.py` | Convert decimal to binary. |
 | 35 | `35_gcd_of_two_numbers.py` | Compute GCD of two integers. |
 
+
+## ✅ Medium Level Programs List (36–67 Completed)
+| S.No | File Name | Description |
+|------|----------|-------------|
+| 36 | `36_fibonacci_series.py` | Print first n Fibonacci numbers. |
 ---
 
 ## 🎯 Purpose
