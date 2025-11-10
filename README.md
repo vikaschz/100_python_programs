@@ -51,6 +51,7 @@ More **Medium** and **Hard** level programs will be added soon.
 | S.No | File Name | Description |
 |------|----------|-------------|
 | 36 | `36_fibonacci_series.py` | Print first n Fibonacci numbers. |
+| 37 | `37_count_primes_in_range.py` | Count primes in range [a,b]. |
 ---
 
 ## 🎯 Purpose
@@ -69,3 +70,6 @@ More **Medium** and **Hard** level programs will be added soon.
 If you found this helpful, consider ⭐ **starring the repository** 🙂
 
 
+git add README.md
+git commit -m "Readme updated"
+git push
