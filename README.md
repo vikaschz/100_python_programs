@@ -54,6 +54,7 @@ More **Medium** and **Hard** level programs will be added soon.
 | 37 | `37_count_primes_in_range.py` | Count primes in range [a,b]. |
 | 38 | `38_matrix_addition.py` | Add two matrices of the same size. |
 | 39 | `39_transpose_matrix.py` | Print matrix transpose. |
+| 40 | `40_anagram_check.py` | Check if two strings are anagrams. |
 ---
 
 ## 🎯 Purpose
