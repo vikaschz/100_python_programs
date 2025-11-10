@@ -55,6 +55,7 @@ More **Medium** and **Hard** level programs will be added soon.
 | 38 | `38_matrix_addition.py` | Add two matrices of the same size. |
 | 39 | `39_transpose_matrix.py` | Print matrix transpose. |
 | 40 | `40_anagram_check.py` | Check if two strings are anagrams. |
+| 41 | `41_merge_sorted_lists.py` | Merge two sorted lists. |
 ---
 
 ## 🎯 Purpose
