@@ -58,7 +58,7 @@ More **Medium** and **Hard** level programs will be added soon.
 | 41 | `41_merge_sorted_lists.py` | Merge two sorted lists. |
 | 42 | `42_count_frequency.py` | Count frequency of elements. |
 | 43 | `43_remove_duplicates_sorted.py` | Remove duplicates from sorted list. |
-| 44 | `44_count_frequency.py` | Count frequency of elements. |
+| 44 | `44_string_compression.py` | Compress repeated characters like aaabb → a3b2. |
 ---
 
 ## 🎯 Purpose
