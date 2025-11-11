@@ -56,6 +56,7 @@ More **Medium** and **Hard** level programs will be added soon.
 | 39 | `39_transpose_matrix.py` | Print matrix transpose. |
 | 40 | `40_anagram_check.py` | Check if two strings are anagrams. |
 | 41 | `41_merge_sorted_lists.py` | Merge two sorted lists. |
+| 42 | `42_count_frequency.py` | Count frequency of elements. |
 ---
 
 ## 🎯 Purpose
