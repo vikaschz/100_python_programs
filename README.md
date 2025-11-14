@@ -60,17 +60,10 @@ More **Medium** and **Hard** level programs will be added soon.
 | 43 | `43_remove_duplicates_sorted.py` | Remove duplicates from sorted list. |
 | 44 | `44_string_compression.py` | Compress repeated characters like aaabb → a3b2. |
 | 45 | `45_rotate_list.py` | Rotate list right by k positions. |
+| 46 | `46_binary_search.py` | Return index of key in sorted list. |
 |  | `.py` | . |
 |  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
-|  | `.py` | . |
+
 ---
 
 ## 🎯 Purpose
