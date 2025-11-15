@@ -62,7 +62,9 @@ More **Medium** and **Hard** level programs will be added soon.
 | 45 | `45_rotate_list.py` | Rotate list right by k positions. |
 | 46 | `46_binary_search.py` | Return index of key in sorted list. |
 | 47 | `47_check_perfect_number.py` | Check if number is perfect. |
-|  | `.py` | . |
+| 48 | `50_evaluate_postfix.py` | Medium/50_evaluate_postfix.py. |
+| 49 | `.py` | . |
+| 50 | `.py` | . |
 
 ---
 
