@@ -63,7 +63,7 @@ More **Medium** and **Hard** level programs will be added soon.
 | 46 | `46_binary_search.py` | Return index of key in sorted list. |
 | 47 | `47_check_perfect_number.py` | Check if number is perfect. |
 | 48 | `50_evaluate_postfix.py` | Medium/50_evaluate_postfix.py. |
-| 49 | `.py` | . |
+| 49 | `51_check_palindrome_number.py` | Check if number reads same backwards. |
 | 50 | `.py` | . |
 
 ---
