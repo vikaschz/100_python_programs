@@ -62,9 +62,11 @@ More **Medium** and **Hard** level programs will be added soon.
 | 45 | `45_rotate_list.py` | Rotate list right by k positions. |
 | 46 | `46_binary_search.py` | Return index of key in sorted list. |
 | 47 | `47_check_perfect_number.py` | Check if number is perfect. |
-| 48 | `50_evaluate_postfix.py` | Medium/50_evaluate_postfix.py. |
-| 49 | `51_check_palindrome_number.py` | Check if number reads same backwards. |
-| 50 | `.py` | . |
+| 48 | `48_sum_of_two_lists_elementwise.py` | Add elements of two lists. |
+| 49 | `49_infix_to_postfix.py` | Convert infix to postfix. |
+| 50 | `50_evaluate_postfix.py` | Evaluate postfix expression. |
+| 51 | `51_check_palindrome_number.py` | Check if number reads same backwards. |
+| 52 | `.py` | . |
 
 ---
 
