@@ -106,13 +106,6 @@ This repository is perfect for beginners and intermediate learners.
 | 65 | `65_evaluate_expression_plus_minus.py` | Evaluate expression. |
 | 66 | `66_word_ladder_one_step.py` | 1-step word ladder. |
 | 67 | `67_median_of_two_sorted_lists.py` | Median of sorted lists. |
-
----
-
-# 🔴 Hard Level Programs (68–100)
-
-| S.No | File Name | Description |
-|------|-----------|-------------|
 | 68 | `68_count_character_types.py` | Count uppercase, lowercase, digits, special chars. |
 | 69 | `69_longest_word_in_sentence.py` | Longest word in sentence. |
 | 70 | `70_sum_prime_digits.py` | Sum of prime digits. |
