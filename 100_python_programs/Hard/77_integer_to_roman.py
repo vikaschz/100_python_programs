@@ -21,7 +21,6 @@ def int_to_roman(num):
 
     result = ""
 
-    # Loop through each value-symbol pair
     for i in range(len(values)):
         while num >= values[i]:
             result += symbols[i]
