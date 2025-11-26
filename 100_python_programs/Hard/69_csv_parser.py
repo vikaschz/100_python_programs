@@ -7,46 +7,50 @@ def parse_csv(text):
     rows = []
     row = []
     field = ""
-    i = 0
     inside_quotes = False
+    i = 0
     n = len(text)
 
     while i < n:
-        char = text[i]
+        ch = text[i]
 
-        # --- Inside quoted field ---
+        # --------------------------
+        # Case 1: Inside quotes
+        # --------------------------
         if inside_quotes:
-            if char == '"':
-                # Check for escaped quote ("")
+            if ch == '"':
+                # Check for escaped quote ""
                 if i + 1 < n and text[i + 1] == '"':
                     field += '"'
-                    i += 1  # Skip next quote
+                    i += 1  # Skip the second quote
                 else:
-                    inside_quotes = False  # Closing quote
+                    inside_quotes = False  # Quote closed
             else:
-                field += char
+                field += ch
 
-        # --- Outside quoted field ---
+        # --------------------------
+        # Case 2: Outside quotes
+        # --------------------------
         else:
-            if char == '"':
+            if ch == '"':
                 inside_quotes = True
 
-            elif char == ',':
+            elif ch == ',':
                 row.append(field)
                 field = ""
 
-            elif char == '\n':
+            elif ch == '\n':
                 row.append(field)
                 rows.append(row)
                 row = []
                 field = ""
 
             else:
-                field += char
+                field += ch
 
         i += 1
 
-    # Add last field/row if file doesn't end with newline
+    # Add last field and row
     row.append(field)
     rows.append(row)
 
