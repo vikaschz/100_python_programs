@@ -7,6 +7,7 @@ Description: perform stack operations(push, pop, display)
 stack = []
 stack_size = int(input("Enter stack size: "))
 
+
 def push():
     if len(stack) < stack_size:
         elem = input("Enter an element to be pushed: ")
@@ -27,8 +28,11 @@ def display():
     if len(stack) == 0:
         print("----Stack is empty----")
     else:
-        for n in stack:
+        print("----Stack Contents----")
+        print("Top ->")
+        for n in reversed(stack):
             print(f"|{n}|")
+        print("<- Bottom")
 
 
 cur = True
@@ -55,6 +59,3 @@ while cur:
 
     else:
         print("Enter valid choice(1,2,3,4).")
-
-
-
