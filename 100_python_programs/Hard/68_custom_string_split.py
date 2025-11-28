@@ -15,7 +15,7 @@ for char in text:
     if char != " ":
         current_word += char
     else:
-        if current_word != "":      # FIX: avoid empty words
+        if current_word != "":
             result.append(current_word)
         current_word = ""
 
