@@ -23,7 +23,7 @@ This repository is perfect for beginners and intermediate learners.
 
 # 📊 Progress Status
 
-### 🎯 ** 86/ 100 Programs Completed**
+### 🎯 ** 92/ 100 Programs Completed**
 
 
 
