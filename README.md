@@ -144,10 +144,11 @@ This repository is perfect for beginners and intermediate learners.
 | 94 | `94_case_sensitive_compression.py` | Case-sensitive string compression. |
 | 95 | `95_compressed_string_expansion.py` | Expand compressed string. |
 | 96 | `96_pattern_sentence_match.py` | Sentence follows letter pattern. |
-| 97 | `97_string_difference.py` | Compare two strings (diff). |
+| 97 | `97_quiz.py` | This program asks multiple-choice questions and shows the final score.
+ |
 | 98 | `98_long_multiplication.py` | Multiply huge numbers manually. |
 | 99 | `99_word_abbreviation_generator.py` | Generate logic-based word abbreviations. |
-| 100 | `100_mini_spreadsheet.py` | Mini spreadsheet cell evaluation. |
+| 100 | `100_string_difference.py` | Compare two strings (diff). |
 
 ---
 
