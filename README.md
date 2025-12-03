@@ -26,17 +26,11 @@ This repository is perfect for **beginners** and **intermediate** Python learner
 ## 📚 Table of Contents
 
 * [Overview](#-overview)
-* [How to Use](#-how-to-use)
 * [Easy Programs (1–35)](#-easy-level-1–35)
 * [Medium Programs (36–67)](#-medium-level-36–67)
 * [Hard Programs (68–100)](#-hard-level-68–100)
 * [Folder Structure](#-folder-structure)
-* [Contributing](#-contributing)
 ---
-
-## 📊 Progress Status
-
-### 🎯 **100 / 100 Programs Completed**
 
 ---
 
