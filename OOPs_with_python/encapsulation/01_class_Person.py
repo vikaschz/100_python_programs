@@ -1,6 +1,7 @@
-"""Create a class Person with a private variable __age.
-Add getter and setter methods that ensure age is never negative."""
-
+"""
+Create a class Person with a private variable __age.
+Add getter and setter methods that ensure age is never negative.
+"""
 
 class Person:
 
