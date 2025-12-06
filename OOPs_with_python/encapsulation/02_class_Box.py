@@ -1,5 +1,7 @@
-"""Make a class Box with a private variable __length.
-Add a method to update it only if the value is greater than zero."""
+"""
+Make a class Box with a private variable __length.
+Add a method to update it only if the value is greater than zero.
+"""
 
 
 class Box:
