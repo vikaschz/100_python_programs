@@ -1,4 +1,5 @@
-"""8. Menu-Driven Crypto Wallet
+"""
+8. Menu-Driven Crypto Wallet
 Class CryptoWallet with private __balance.
 Menu:
 1. Deposit
@@ -6,7 +7,8 @@ Menu:
 3. Transfer (simulate signature verification)
 4. View balance
 5. Exit
-Reject transactions without a valid "signature" (fake simulation)."""
+Reject transactions without a valid "signature" (fake simulation).
+"""
 
 
 class CryptoWallet:
